@@ -1,0 +1,7 @@
+metric,value,detail
+queries_sent_to_chatgpt,29,"via a data provider's ChatGPT feed, same day as the Google test"
+chatgpt_searched_web,9,"of 29 queries; when it searched, it rewrote rare phrasings into common ones (e.g. inexpensive airfare to london became cheap flights to London)"
+chatgpt_answered_from_memory,20,"of 29 queries; named both words, e.g. ""notebook computer (laptop)"""
+ai_overviews_appeared,27,of 28 pair searches
+pairs_where_both_sides_had_an_ai_overview,13,out of 14 pairs
+ai_overview_shared_sources,27,"out of 179 total sources across those 13 pairs, about 15%"

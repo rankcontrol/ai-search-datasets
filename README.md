@@ -5,6 +5,7 @@ Data from [RankControl](https://rctrl.com)'s tests of what AI search engines cit
 | Folder | Test | Collected |
 |---|---|---|
 | [`2026-09-ai-citations-by-page-format`](2026-09-ai-citations-by-page-format) | 308 citations from OpenAI's and Perplexity's APIs for 24 buying questions, sorted by page format | 2026-09-26 |
+| [`2026-10-semantic-search-query-pairs`](2026-10-semantic-search-query-pairs) | 14 same-meaning query pairs tested on Google, ChatGPT and Google AI Overviews, plus 3 open embedding models | 2026-10-19 |
 
 Written up on [Search Shift](https://medium.com/@thesearchshift). To run the same checks on your own buyer questions every week, see [RankControl's AI visibility tracking](https://rctrl.com/ai-visibility).
 

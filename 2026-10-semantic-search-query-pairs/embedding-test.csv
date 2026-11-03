@@ -1,0 +1,10 @@
+query,model,rank_of_correct_sentence,top_decoy,score_decoy,score_correct,score_gap
+how to fix a dripping tap,bge-small,3,Tap the screen twice to fix the dripping paint effect,,,
+how to fix a dripping tap,bge-large,2,Tap the screen twice to fix the dripping paint effect,0.730,0.715,0.015
+how to fix a dripping tap,mxbai-large,1,,,,
+best crm for small business,bge-small,4,a CRM aimed at enterprise banks,,,
+best crm for small business,bge-large,1,,,,
+best crm for small business,mxbai-large,2,,,,0.004
+cheap flights to london,bge-small,4,cheap London hotels,,,
+cheap flights to london,bge-large,1,,,,
+cheap flights to london,mxbai-large,1,,,,
