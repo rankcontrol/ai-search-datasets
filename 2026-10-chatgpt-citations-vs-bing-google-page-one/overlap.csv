@@ -1,0 +1,11 @@
+metric,value
+keywords_tested,38
+keywords_chatgpt_searched_web,26
+keywords_answered_from_memory,12
+sites_cited_by_chatgpt,147
+cited_sites_on_bing_page_one,0.25
+cited_sites_on_google_page_one,0.245
+cited_sites_on_both_page_ones,0.10
+cited_sites_on_neither_page_one,0.605
+keywords_where_chatgpt_cited_bings_first_spot,7 of 26
+keywords_where_chatgpt_cited_googles_first_spot,11 of 26
