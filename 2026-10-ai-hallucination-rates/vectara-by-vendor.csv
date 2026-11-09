@@ -1,0 +1,6 @@
+vendor,lowest_model,lowest_rate,highest_model,highest_rate
+OpenAI,GPT-5.4 nano,0.031,o3-pro,0.233
+Google,Gemini 2.5 Flash Lite,0.033,Gemini 3 Pro preview,0.136
+DeepSeek,V3.2 Exp,0.053,R1,0.113
+xAI,Grok 3,0.058,Grok 4 Fast reasoning,0.202
+Anthropic,Claude Haiku 4.5,0.098,Claude Opus 4.6,0.122

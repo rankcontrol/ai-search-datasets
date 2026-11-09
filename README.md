@@ -8,6 +8,8 @@ Data from [RankControl](https://rctrl.com)'s tests of what AI search engines cit
 | [`2026-10-semantic-search-query-pairs`](2026-10-semantic-search-query-pairs) | 14 same-meaning query pairs tested on Google, ChatGPT and Google AI Overviews, plus 3 open embedding models | 2026-10-19 |
 | [`2026-10-chatgpt-citations-vs-bing-google-page-one`](2026-10-chatgpt-citations-vs-bing-google-page-one) | 38 keywords: which sites ChatGPT cited, checked against page one of Bing and Google, plus the rewrite gap | 2026-10-19 |
 | [`2026-10-local-listings-ai-mode-vs-chatgpt`](2026-10-local-listings-ai-mode-vs-chatgpt) | 12 local questions in 12 US cities: business cards in Google AI Mode vs ChatGPT, and how often their ratings matched | 2026-10-19 |
+| [`2026-10-collection-vs-product-pages`](2026-10-collection-vs-product-pages) | Google's top 10 for 8 product searches by page type, and what ChatGPT cited for 8 buying questions | 2026-10 (ChatGPT run 2026-10-19) |
+| [`2026-10-ai-hallucination-rates`](2026-10-ai-hallucination-rates) | Vectara and Artificial Analysis hallucination leaderboards as of October 2026, plus our 86-answer test of ChatGPT and Google AI Mode | 2026-10-19 |
 
 Written up on [Search Shift](https://medium.com/@thesearchshift). To run the same checks on your own buyer questions every week, see [RankControl's AI visibility tracking](https://rctrl.com/ai-visibility).
 
