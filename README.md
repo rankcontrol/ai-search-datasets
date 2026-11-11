@@ -10,6 +10,11 @@ Data from [RankControl](https://rctrl.com)'s tests of what AI search engines cit
 | [`2026-10-local-listings-ai-mode-vs-chatgpt`](2026-10-local-listings-ai-mode-vs-chatgpt) | 12 local questions in 12 US cities: business cards in Google AI Mode vs ChatGPT, and how often their ratings matched | 2026-10-19 |
 | [`2026-10-collection-vs-product-pages`](2026-10-collection-vs-product-pages) | Google's top 10 for 8 product searches by page type, and what ChatGPT cited for 8 buying questions | 2026-10 (ChatGPT run 2026-10-19) |
 | [`2026-10-ai-hallucination-rates`](2026-10-ai-hallucination-rates) | Vectara and Artificial Analysis hallucination leaderboards as of October 2026, plus our 86-answer test of ChatGPT and Google AI Mode | 2026-10-19 |
+| [`2026-10-local-typed-vs-spoken`](2026-10-local-typed-vs-spoken) | 15 local searches in 15 US cities, typed short and asked as a spoken question: which Google results showed a map pack or an AI Overview, and what ChatGPT linked | 2026-10-19 |
+| [`2026-09-programmatic-pages-wise-zapier`](2026-09-programmatic-pages-wise-zapier) | 8 questions about Wise's and Zapier's templated pages, run through ChatGPT, Perplexity and Google AI Overviews: which pages got cited | 2026-09-26 |
+| [`2026-10-brand-pages-ai-cited`](2026-10-brand-pages-ai-cited) | 48 questions about 24 brands plus 12 how-to questions: which pages ChatGPT and Google cited, by page type | 2026-10-19 |
+| [`2026-10-law-firm-ai-overviews`](2026-10-law-firm-ai-overviews) | 8 legal searches on Google: which showed an AI Overview, what its 18 cited sources were, and what ChatGPT cited for a lawyer-cost question | 2026-10 |
+| [`2026-10-chatgpt-top-pick-stability`](2026-10-chatgpt-top-pick-stability) | 5 buying questions asked ChatGPT 3 times each: how often the top pick and the named products changed, plus brand-name tokenization | 2026-10-19 |
 
 Written up on [Search Shift](https://medium.com/@thesearchshift). To run the same checks on your own buyer questions every week, see [RankControl's AI visibility tracking](https://rctrl.com/ai-visibility).
 

@@ -1,0 +1,14 @@
+metric,value
+buyer_questions_asked,5
+runs_per_question,3
+answers_in_total,15
+questions_where_the_top_pick_changed,2 of 5
+products_named_in_total,28
+products_named_in_all_three_runs,22
+products_that_did_not_hold_in_every_run,6
+products_that_did_not_hold_in_the_crm_answers,2
+products_that_did_not_hold_in_the_mattress_answers,4
+median_sources_cited_per_answer,9
+answers_with_a_single_search,13 of 15
+brand_names_run_through_o200k_base,15
+brand_names_that_came_out_as_2_or_3_tokens,15
