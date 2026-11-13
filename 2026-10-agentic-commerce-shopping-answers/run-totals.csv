@@ -1,0 +1,14 @@
+metric,value
+shopping_questions,16
+ai_engines_tested,2
+runs_per_question_per_engine,1
+test_date,2026-10-19
+search_location,US
+chatgpt_answers_with_product_cards,11 of 16
+ai_mode_answers_with_product_links,12 of 16
+chatgpt_product_cards_shown,27
+chatgpt_product_cards_with_a_price,23
+chatgpt_different_stores_pointed_to,16
+ai_mode_links_to_google_shopping_listings,71
+most_cited_source_in_chatgpt,Walmart (13 citations)
+most_linked_source_in_ai_mode,Wirecutter (15 links)
