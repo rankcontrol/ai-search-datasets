@@ -1,0 +1,19 @@
+metric,value
+business_questions,40
+test_date,2026-10-19
+search_location,US
+pages_collected_in_total,635
+youtube_videos_among_them,135
+non_video_pages_with_a_usable_publish_date,260
+median_age_of_those_pages_years,2.0
+pages_3_or_more_years_old,85 of 260
+oldest_page_in_googles_top_10_first_published,May 2005
+google_ai_overview_pages_with_dates,137
+google_ai_overview_pages_3_or_more_years_old,38
+chatgpt_pages_with_dates,11
+chatgpt_pages_older_than_3_years,0
+chatgpt_oldest_dated_page,Stripe guide to SaaS pricing (December 2023)
+youtube_videos_3_or_more_years_old,38 of 135
+ahrefs_cited_urls_analyzed_published_2025-07-28,16.975 million
+ahrefs_chatgpt_cited_urls_fresher_than_google_organic_days,458
+ahrefs_google_ai_overview_pages_older_days,16
